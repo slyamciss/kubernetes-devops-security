@@ -1,0 +1,7 @@
+fileignoreconfig:
+- filename: sec_files/password.txt
+  checksum: 3da25e43ffb8798f7725d501c751b7ff16a86d9f73f2a42a7dd01271b1f471e1
+- filename: talismanrc
+  checksum: 50ea02d117880d5753cea1309372b42d9aa941f5fe2ea5d3ae74a80331f37642
+- filename: sec_files/file3
+  
